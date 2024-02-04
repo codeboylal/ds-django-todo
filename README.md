@@ -19,6 +19,8 @@ $ virtualenv -p python3 env # Creating virtual environment
 
 $ source env/bin/activate # To activate virtual-environment ; Type deactivate to deactivate the virtual environment
 
+$ Install Django
+
 # Possible Errors May Come:
 # Time Zone Error Then 
 $ cd todoApp 
